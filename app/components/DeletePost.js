@@ -175,7 +175,6 @@ export default class PostComment extends Component {
 }
 
 const styles = StyleSheet.create({
-
   MainContainer :{
   flex:1,
   backgroundColor:'#fff'
@@ -221,7 +220,6 @@ const styles = StyleSheet.create({
     fontSize: moderateScale(18),
     marginTop:5,
     fontFamily: font_type.FontLight,
-
   },
    body: {
        flex: 2,
